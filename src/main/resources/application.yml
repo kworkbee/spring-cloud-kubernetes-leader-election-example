@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: leader-election-example
+
+logging:
+  level:
+    me.g1tommy.leaderelection: DEBUG
